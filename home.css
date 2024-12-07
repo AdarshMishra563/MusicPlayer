@@ -58,7 +58,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    background-image: url("");
+    background-size:cover;
 }
 #container{
     padding: 2px;
