@@ -97,7 +97,11 @@ curr_track.addEventListener("playing", curr_v.load())
   
   updateTimer = setInterval(seekUpdate, 1000);
   curr_track.addEventListener("ended", nextTrack);
+  curr_v.addEventListener("ended",ff)
   random_bg_color();
+  function ff(){
+  curr_v.play();
+  }
 }
 
 function resetValues() {
