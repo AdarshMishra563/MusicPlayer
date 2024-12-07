@@ -61,7 +61,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     background-size:cover;
-    size:100vh;
+    size:100%;
 }
 #container{
     padding: 2px;
