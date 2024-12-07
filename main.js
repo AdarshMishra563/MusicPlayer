@@ -85,7 +85,7 @@ function loadTrack(track_index) {
   resetValues();
   curr_track.src = track_list[track_index].path;
   curr_v.src=track_list[track_index].PathV;
-curr_track.addEventListener("playing", curr_v.load())
+
 
   curr_track.load();
 curr_v.load()
