@@ -115,7 +115,7 @@
     box-shadow: 4px rgb(76, 71, 41);
     border: 1px rgb(220, 24, 24);
 }
-.main{height:100vh;
+.main{height:100%;
       width:100vw;
     }
 #newsong{background-color: black;
