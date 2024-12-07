@@ -88,7 +88,7 @@ function loadTrack(track_index) {
 curr_track.addEventListener("playing", curr_v.load())
 
   curr_track.load();
-
+curr_v.load()
   body.style.backgroundImage = "url(" + track_list[track_index].image + ")";
   track_name.textContent = track_list[track_index].name;
   track_artist.textContent = track_list[track_index].artist;
