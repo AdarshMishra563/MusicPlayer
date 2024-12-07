@@ -48,7 +48,7 @@ let track_list = [
     artist:"The Weeknd",
     image:"https://i0.wp.com/www2.hiphopkit.com/uploads/2024/09/The-Weeknd-Timeless-artwork.jpg?ulb=false&ssl=1&resize=320,350",
     path:"https://hhk.awamedia.store/uploads/music/2024/09/The-Weeknd-Timeless-ft-Playboi-Carti-(HipHopKit.com).mp3",
-   PathV:"C:/Desktop/Projects/music player/the-weeknd-playboi-carti-timeless-2160-publer.io.mp4"
+   PathV:"https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/b9/f9/aa/b9f9aa22-72bc-1a8c-6410-d1bc42521890/mzvf_1544412418733521443.720w.h264lc.U.p.m4v"
   },
   {name:"FatherSMH",
     artist:"Kanye",
