@@ -56,12 +56,12 @@
     color:rgb(167, 142, 3);
     background-color: rgb(85, 85, 68);
     padding: 1px;
-    height: 100%;
+    min-height: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     background-size:cover;
-    size:100%;
+    
 }
 #container{
     padding: 2px;
